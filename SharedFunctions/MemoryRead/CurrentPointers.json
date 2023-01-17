@@ -3,14 +3,14 @@
 		"moduleAddress":4835272,
 		"moduleOffset":[
 			64,
-			3184
+			3120
 		],
 		"staticOffset":""
 	},
 	"DialogManager":{
 		"moduleAddress":4824176,
 		"moduleOffset":[
-			2512
+			2496
 		],
 		"staticOffset":""
 	},
